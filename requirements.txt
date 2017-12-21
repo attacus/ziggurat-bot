@@ -1,2 +1,2 @@
-twilio
-invoke
+twilio==5.6.0
+invoke==0.22.0
